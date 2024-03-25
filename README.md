@@ -1,7 +1,13 @@
 # Playground
 
-to run: elixir main.exs
+To further explore the differences between with blocks and common tagged tuple scenarios.
 
+One of my main gripes with with blocks is the order in which you read the code is very chaotic.
+Also with blocks don't read like the rest of Elixir.
+
+## Commands
+
+to run: elixir main.exs
 to format: mix format main.exs
 
 ## Installation

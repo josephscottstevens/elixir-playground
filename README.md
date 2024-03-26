@@ -4,6 +4,7 @@ To further explore the differences between with blocks and common tagged tuple s
 
 One of my main gripes with with blocks is the order in which you read the code is very chaotic.
 Also with blocks don't read like the rest of Elixir.
+Naming things you don't want to name.
 
 ## Commands
 
